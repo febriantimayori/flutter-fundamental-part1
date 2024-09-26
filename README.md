@@ -178,4 +178,7 @@ Membuat button untuk menentukan tanggal dan jam.
 ![Praktikum 4-6](images/P4L6-2.png)
 
 ### Tugas Praktikum Soal No. 2
+```text
+Hasil akhir:
+```
 ![Tugas Praktikum Soal No. 2](images/Soal2.png)
