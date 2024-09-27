@@ -182,3 +182,19 @@ Membuat button untuk menentukan tanggal dan jam.
 Hasil akhir:
 ```
 ![Tugas Praktikum Soal No. 2](images/Soal2.png)
+
+### Tugas Praktikum Soal No. 3
+```text
+Menyelesaikan Codelabs: Your first Flutter app!
+```
+![Tugas Praktikum Soal No. 3](images/Codelab-1.png)
+![Tugas Praktikum Soal No. 3](images/Codelab-2.png)
+![Tugas Praktikum Soal No. 3](images/Codelab-3.png)
+![Tugas Praktikum Soal No. 3](images/Codelab-4.png)
+```text
+Hasil aplikasi sudah responsif:
+```
+![Tugas Praktikum Soal No. 3](images/Codelab-5.png)
+![Tugas Praktikum Soal No. 3](images/Codelab-6.png)
+![Tugas Praktikum Soal No. 3](images/Codelab-7.png)
+![Tugas Praktikum Soal No. 3](images/Codelab-8.png)
